@@ -3,7 +3,7 @@ name: Test Checklist
 description: A test issue template.
 labels: ["test-checklist"]
 type: checklist
-projects: ["Defra-Data-Science-Centre-of-Excellence/projects/137"]
+projects: ["Defra-Data-Science-Centre-of-Excellence/Test DDSCoE Admin Project"]
 assignees: ["SamRichDefra", "liza-wood-defra", "JackDale0", "tomkdefra"]
 
 body:
